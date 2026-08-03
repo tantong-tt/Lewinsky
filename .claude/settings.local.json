@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"npm --version 2>&1 || echo 'npm not found in PATH'\")"
+    ]
+  }
+}
